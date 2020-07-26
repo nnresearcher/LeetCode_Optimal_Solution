@@ -6,9 +6,7 @@
 
 ## 得分
 
-执行用时：0 ms, 在所有 Java 提交中击败了100.00%的用户
-
-内存消耗：40.2 MB, 在所有 Java 提交中击败了5.49%的用户
+<img src="C:\Users\xiaodong\AppData\Roaming\Typora\typora-user-images\1595774966962.png" alt="1595774966962" style="zoom:100%;" />
 
 共计得分105.49分
 

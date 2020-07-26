@@ -24,7 +24,7 @@ public class Solution {
                 ;
             }
             // The slow pointer advances one step at a time, and the fast pointer takes two steps.
-            //If there is a closed loop, the fast pointer and the slow pointer are finally equal.
+            // If there is a closed loop, the fast pointer and the slow pointer are finally equal.
             m = m.next;
             n = n.next.next;
         }
